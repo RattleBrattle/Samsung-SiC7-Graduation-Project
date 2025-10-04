@@ -2,7 +2,7 @@
 #define SENSOR_FUNCTIONS_H
 
 #include <DHT.h>
-#include "pins.h"
+#include "pin_conf.h"
 
 /* Class for reading all each sensor indvidually and controlling the Motors.
 *  Public Functions:

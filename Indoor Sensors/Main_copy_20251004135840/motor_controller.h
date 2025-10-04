@@ -1,7 +1,7 @@
 #ifndef MOTOR_CONTROLLER_H
 #define MOTOR_CONTROLLER_H
 
-#include "pins.h"
+#include "pin_conf.h"
 
 #define DEFAULT_SPEED 200
 

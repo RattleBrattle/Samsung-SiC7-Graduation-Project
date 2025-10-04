@@ -1,5 +1,5 @@
 #include "wifi_mqtt.h"
-#include "sensor_manager.h"
+#include "sensor_functions.h"
 #include "motor_controller.h"
 #include "config.h"
 
