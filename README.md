@@ -4,10 +4,10 @@
 A comprehensive IoT-based smart home automation system that combines indoor environmental control with advanced outdoor security features. This project leverages modern technologies to create a seamless and secure smart home experience.
 
 ## 👥 Team Members
-- **Basel Mohamed** - Indoor Automation & System Integration
-- **Sarah Gamal** - Outdoor Security & Access Control  
-- **Ahmed Kandil** - Hardware Integration & Sensor Networks
-- **Mohamed Ali** - Cloud Services & Mobile Application
+- **Basel Mohamed**
+- **Sarah Gamal**
+- **Ahmed Kandil**
+- **Mohamed Ali** 
 
 ## 🏠 Indoor Functionality
 
