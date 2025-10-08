@@ -1,7 +1,7 @@
 #ifndef LED_CONTROLLER_H
 #define LED_CONTROLLER_H
 
-#include "pins.h"
+#include "pin_conf.h"
 
 class LEDController {
   public:
