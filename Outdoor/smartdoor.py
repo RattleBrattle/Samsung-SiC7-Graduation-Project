@@ -46,8 +46,8 @@ entered = ""
 wrong_attempts = 0
 
 # ========== Telegram Bot Info ==========
-BOT_TOKEN = "8053585829:AAFLIATZNePOuXPrZji86uLjfPLlvjry6SE"
-CHAT_ID = "1143710208"
+BOT_TOKEN = "####" #enter your token
+CHAT_ID = "0000" #enter your chat id 
 
 def send_telegram_message(message):
     """Send a message to your Telegram bot."""
