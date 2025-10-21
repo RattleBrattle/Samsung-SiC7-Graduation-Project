@@ -41,7 +41,7 @@ for c in COLS:
     GPIO.setup(c, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
 
 # ========== Constants ==========
-PASSWORD = "452002"
+PASSWORD = "000" ##put your password
 entered = ""
 wrong_attempts = 0
 
